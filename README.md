@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <a>
     <img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" alt="logo" width="200" height="200">
   </a>
