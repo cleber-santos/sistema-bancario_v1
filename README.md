@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <a>
     <img src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png" alt="logo" width="200" height="200">
   </a>
@@ -70,7 +70,7 @@ Para mais informações, sinta-se à vontade para entrar em contato:
 Agradeço à Digital Innovation One pela oportunidade de aprendizado e desenvolvimento deste projeto.
 
 
-<div style="text-align: center;">
+<div align="center">
   <a>
     <img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="64px" height="64px" alt="python"></a>
   </a>
