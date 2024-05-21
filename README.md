@@ -31,7 +31,7 @@ O sistema bancário possui as seguintes funcionalidades:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/cleber-santos/sistema-banc-rio_v1.git
+   git clone https://github.com/cleber-santos/sistema-bancario_v1.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
